@@ -56,7 +56,7 @@ This script gives you two options for creating passphrases:
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/100dollarguy/Projects/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/100dollarguy/Projects/blob/main/Password-Generator/LICENSE).
 
 ## Feedback and support
 
