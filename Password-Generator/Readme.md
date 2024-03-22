@@ -48,7 +48,7 @@ This script gives you two options for creating passphrases:
 5. **Run the script:**
    - Type the following command and press Enter:
      - **Windows:** `powershell.exe -ExecutionPolicy Bypass -File passphrase_generator.ps1`
-     - **macOS and Linux:** `./passphrase_generator.sh`
+     - **macOS and Linux:** `./passphrase_generator_mac_linux.sh`
    - Follow the on-screen instructions to choose the type and length of passphrase you want.
 
 6. **Save your passphrase:**
