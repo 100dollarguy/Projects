@@ -30,8 +30,8 @@ This script gives you two options for creating passphrases:
 ## How to use
 
 1. **Download the script:**
-   - [Passphrase Generator Script for Windows](https://github.com/100dollarguy/Projects/blob/main/password_generator.sh)
-   - [Passphrase Generator Script for macOS and Linux](https://github.com/100dollarguy/Projects/blob/main/passphrase_generator_mac_linux.sh) 
+   - [Passphrase Generator Script for Windows](https://github.com/100dollarguy/Projects/blob/main/Password-Generator/password_generator.sh)
+   - [Passphrase Generator Script for macOS and Linux](https://github.com/100dollarguy/Projects/blob/main/Password-Generator/passphrase_generator_mac_linux.sh)
 
 2. **Open a terminal or command prompt window:**
    - **Windows:** Search for "PowerShell" in the Start menu.
@@ -56,7 +56,7 @@ This script gives you two options for creating passphrases:
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/100dollarguy/Projects/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/100dollarguy/Projects/blob/main/Password-Generator/LICENSE).
 
 ## Feedback and support
 
