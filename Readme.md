@@ -30,33 +30,20 @@ This script gives you two options for creating passphrases:
 ## How to use
 
 1. **Download the script:**
-   - Click the green "Code" button at the top of this page.
-   - Choose "Download ZIP" to download the script to your computer.
-   - Extract the contents of the ZIP file.
+   - [Passphrase Generator Script for Windows](https://github.com/100dollarguy/Projects/blob/main/password_generator.sh)
+   - [Passphrase Generator Script for macOS and Linux](https://github.com/100dollarguy/Projects/blob/main/passphrase_generator_mac_linux.sh) 
 
 2. **Open a terminal or command prompt window:**
-
-- **Windows:**
-  - Search for "PowerShell" in the Start menu.
-
-- **macOS:**
-  - Open the "Terminal" app, usually found in the "Utilities" folder within the "Applications" folder.
-
-- **Linux:**
-  - Open a terminal emulator, such as GNOME Terminal or Konsole.
+   - **Windows:** Search for "PowerShell" in the Start menu.
+   - **macOS:** Open the "Terminal" app, usually found in the "Utilities" folder within the "Applications" folder.
+   - **Linux:** Open a terminal emulator, such as GNOME Terminal or Konsole.
 
 3. **Navigate to the script directory:**
    - Use the `cd` command to navigate to the directory where you extracted the script.
 
 4. **Set the script as executable (if necessary):**
-
-- **Windows and macOS:** Not applicable.
-
-- **Linux:**
-  - If the script is not already executable, you can make it executable using the following command:
-    ```bash
-    chmod +x passphrase_generator.sh
-    ```
+   - **Windows and macOS:** Not applicable.
+   - **Linux:** If the script is not already executable, you can make it executable using the following command: `chmod +x passphrase_generator.sh`.
 
 5. **Run the script:**
    - Type the following command and press Enter:
@@ -69,10 +56,10 @@ This script gives you two options for creating passphrases:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## Feedback and support
 
-If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/your-username/passphrase-generator/issues) or [submit a pull request](https://github.com/your-username/passphrase-generator/pulls).
+If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
 Happy passphrase generating!
